@@ -36,6 +36,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Contributors
-Siddhant Gupta 
-Sangeeta Jha 
+Siddhant Gupta,
+Sangeeta Jha,
 Sonali 
